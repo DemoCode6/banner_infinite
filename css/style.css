@@ -1,0 +1,13 @@
+.dw2{background:url(../imgs/product_10.png) no-repeat;width:186px;height:154px;position:absolute;top:0;left:0px;padding:40px 60px;text-align:center;color:#fff;font-size:16px;line-height:150px;}
+li{
+    float: left;
+    width: 346px;
+    position: relative;
+
+}
+.scroll a{
+    display: block;
+}
+.scroll a:hover .q{
+    background: red;
+}
